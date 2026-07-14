@@ -109,4 +109,4 @@ caesar-cipher-project/
 
 ## Author
 
-Shrey — DecodeLabs Industrial Training Kit, 2026 Batch
+Shreya C N — DecodeLabs Industrial Training Kit, 2026 Batch
